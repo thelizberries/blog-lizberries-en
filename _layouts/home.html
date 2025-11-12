@@ -1,0 +1,53 @@
+---
+layout: default
+---
+
+<h1 class="text-center">The Lizberries Blog (English)</h1>
+
+<div class="posts-grid">
+  {% for post in paginator.posts %}
+  <article class="post-preview{% unless post.image %} no-image{% endunless %}">
+    <a href="{{ post.url | relative_url }}">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+      {% endif %}
+      <h2>{{ post.title }}</h2>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
+      </p>
+      <p class="read-more text-red">→ Read more</p>
+    </a>
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination text-center" style="margin: 2rem 0;">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="text-red text-uppercase" style="margin-right: 1.5rem;">
+      ← Newer posts
+    </a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="text-red text-uppercase">
+      Older posts →
+    </a>
+  {% endif %}
+</div>
+
+<!-- Script per effetto fade all'apertura del post -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const postLinks = document.querySelectorAll('.post-preview a');
+    postLinks.forEach(link => {
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        const targetUrl = this.href;
+        document.body.classList.add('fade-out');
+        setTimeout(() => {
+          window.location.href = targetUrl;
+        }, 500);
+      });
+    });
+  });
+</script>
