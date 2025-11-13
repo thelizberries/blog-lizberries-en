@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Benvenuti nel blog dei Lizberries"
+title: "Welcome to the Lizberries blog"
 date: 2025-11-10
 image: /assets/images/theLizberries.webp
+original_file: "2025-11-09-welcome.md"
 ---
 Hi everyone!👋
 
