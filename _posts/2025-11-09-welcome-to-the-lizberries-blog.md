@@ -4,6 +4,7 @@ title: "Welcome to the Lizberries blog"
 date: 2025-11-10
 image: /assets/images/posts/theLizberries.webp
 original_file: "2025-11-09-welcome.md"
+description: "Welcome to the official Lizberries blog. Discover behind the scenes, stories and inspirations of the Cranberries tribute band."
 ---
 Hi everyone!👋
 
