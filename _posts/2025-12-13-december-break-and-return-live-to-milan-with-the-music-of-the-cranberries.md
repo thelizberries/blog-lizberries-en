@@ -6,7 +6,12 @@ description: "The Lizberries take a break in December, but return on January 17t
 original_file: "2025-12-13-dicembre-di-pausa-e-ritorno-live-a-milano-con-la-musica-dei-the-cranberries.md"
 ---
 ## A December break to recharge your batteries
-In December we took a break to recover our energy. This month, often full of personal commitments, is the ideal time to dedicate time to families and recharge your batteries. However, The Cranberries' music will return very soon with new emotions and new live dates.
+In December we took a break to recover our energy.
+
+
+<!--more-->
+
+This month, often full of personal commitments, is the ideal time to dedicate time to families and recharge your batteries. However, The Cranberries' music will return very soon with new emotions and new live dates.
 
 ## Return to the stage: January 17th at the Teatro Guanella in Milan
 The first big event of 2026 will be the live show on January 17th, at 9pm, at the Teatro Guanella in Milan. It will be a show dedicated to our summer tour in Ireland, with a musical story that retraces places, meetings and episodes linked to The Cranberries.
@@ -45,4 +50,3 @@ Possible stages 2026
 - Switzerland
 
 The new year opens with enthusiasm and with many opportunities to experience the music of The Cranberries up close and continue to celebrate the band's artistic legacy.
-##

@@ -8,6 +8,10 @@ original_file: "2025-11-09-welcome.md"
 ---
 ## Who we are
 We are the Lizberries, a group of friends and musicians who created a tribute band dedicated to The Cranberries in 2010.
+
+
+<!--more-->
+
 Their music is our inspiration and we love bringing it to the stage with respect and passion.
 
 ## What you will find in our blog
