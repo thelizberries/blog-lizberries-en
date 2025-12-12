@@ -23,8 +23,7 @@ What we will tell during the show
 
 The show will be an emotional journey, open to those who love Irish rock and fans of The Cranberries tribute.
 
-👉 Buy tickets here:
-https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229
+👉 Buy tickets [here](https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229)!
 
 ## The acoustic dates of January
 Before the live theater the acoustic concerts also return:
@@ -44,5 +43,6 @@ Possible stages 2026
 - Slovenia
 - Holland
 - Switzerland
+
 The new year opens with enthusiasm and with many opportunities to experience the music of The Cranberries up close and continue to celebrate the band's artistic legacy.
 ##
