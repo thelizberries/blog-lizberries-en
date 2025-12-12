@@ -13,7 +13,7 @@ We are the Lizberries – a group of [band/creatives/friends] who have decided t
 Here you will find:
 - 🎶 behind the scenes of our projects
 - 📝 stories, thoughts and inspirations
-- 📸 photos and moments that don't end up on Instagram
+- 📸 photos and moments that never end up on Instagram
 - 💡 ideas, advice and some surprises
 
 For us this blog is like an open diary: a place where we can talk about ourselves without filters and where you can leave comments, questions or even just a greeting.

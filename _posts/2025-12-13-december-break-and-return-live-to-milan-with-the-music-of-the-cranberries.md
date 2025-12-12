@@ -23,7 +23,7 @@ What we will tell during the show
 
 The show will be an emotional journey, open to those who love Irish rock and fans of The Cranberries tribute.
 
-🎫 **<a href="https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229" target="_blank" rel="noopener">Buy tickets on VivaTicket</a>**
+🎫 **<a href="https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229" target="_blank" rel="noopener" style="text-decoration: underline;">Buy tickets on VivaTicket</a>**
 
 ## The acoustic dates of January
 Before the live theater the acoustic concerts also return:
