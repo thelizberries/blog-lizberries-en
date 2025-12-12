@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Welcome to the Lizberries blog"
+title: "Welcome to The Lizberries blog"
 date: 2025-11-10
 image: /assets/images/posts/theLizberries.webp
-description: "Benvenuti nel blog ufficiale dei Lizberries. Scopri i dietro le quinte, le storie e le ispirazioni della band tributo ai Cranberries."
+description: "Discover The Lizberries blog: stories, projects, behind the scenes and inspirations dedicated to The Cranberries.An open diary for those who love music."
 original_file: "2025-11-09-welcome.md"
 ---
-Hi everyone!👋
+## Who we are
+We are the Lizberries, a group of friends and musicians who created a tribute band dedicated to The Cranberries in 2010.
+Their music is our inspiration and we love bringing it to the stage with respect and passion.
 
-We are the Lizberries – a group of [band/creatives/friends] who have decided to open this little online space to share with you what we are passionate about.
+## What you will find in our blog
+We have decided to open this small online space to share with you what we are passionate about.
 
 Here you will find:
 - 🎶 behind the scenes of our projects
@@ -16,9 +19,11 @@ Here you will find:
 - 📸 photos and moments that never end up on Instagram
 - 💡 ideas, advice and some surprises
 
-For us this blog is like an open diary: a place where we can talk about ourselves without filters and where you can leave comments, questions or even just a greeting.
+## A corner for everyone
+It will be like an open diary: a place to tell us without filters and where you can leave comments, questions or even just a greeting.
 
-If you're curious to find out what's cooking, stay with us: we will soon publish the first update on [a project/a song/something of yours].
+## Stay updated:
+If you're curious to find out what's cooking, stay with us: soon we will publish the first update on [a project/a song/something of yours].
 
 Thanks for being here 💜
 The Lizberries
