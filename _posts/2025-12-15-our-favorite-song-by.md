@@ -28,7 +28,7 @@ Music follows the flow of emotions, grows, opens up, accompanies you on a small 
 And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholic melody.
 
 
-## Stefano: memories linked to No Need to Argue
+## Stefano: the memories linked to No Need to Argue
 
 The album “No Need To Argue” binds me to beautiful memories of a holiday. During the winter after the “Zombie” boom, I rented the CD and took it to the mountains with my family and some family friends.
 
@@ -49,4 +49,4 @@ In the first months of that year I had been literally bombarded by Zombie's remi
 ### “Ridiculous Thoughts” and Dolores' voice
 Apart from the global hit, I believe that this song best encapsulates the most beautiful sounds of that album and highlights the extraordinary peculiarity of Dolores' voice: from the sweetness of her initial vocalization to a crescendo that explodes in the impetus of the chorus and in the powerful final closing
 
-🎶[Watch the video](https://www.youtube.com/results?search_query=the+lizberries+zombie)
+🎶[Watch the video where we played Zombie at Dolan's in Limerick](https://youtu.be/FbkWGjNMT3s?si=B8RNswkOu-yPikUS)
