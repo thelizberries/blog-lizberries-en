@@ -6,11 +6,15 @@ description: "Find out which songs by The Cranberries of'album No Need to Argue 
 image: /assets/images/posts/spiaggia.webp
 original_file: "2025-12-15-la-nostra-canzone-preferita-di-no-need-to-argue.md"
 ---
-## Cristina: No Need to Argue, an album full of precious pearls
-
-At the risk of sounding obvious, my favorite song by The Cranberries is “Zombie”.
+Cristina, Stefano and Mattia share their favorite songs from the album "No Need to Argue" by The Cranberries.
 
 <!--more-->
+
+---
+
+## 🎤 Cristina: No Need to Argue, an album full of precious pearls
+
+At the risk of sounding obvious, my favorite song by The Cranberries is "Zombie".
 
 
 ### Why “Zombie”?
@@ -27,8 +31,9 @@ Music follows the flow of emotions, grows, opens up, accompanies you on a small 
 ### “Ode to My Family”, the need to be understood
 And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholic melody.
 
+---
 
-## Stefano: the memories linked to No Need to Argue
+## 🎸 Stefano: the memories linked to No Need to Argue
 
 The album “No Need To Argue” binds me to beautiful memories of a holiday. During the winter after the “Zombie” boom, I rented the CD and took it to the mountains with my family and some family friends.
 
@@ -38,8 +43,9 @@ They were truly beautiful days, in which, in addition to being in a beautiful pl
 The whole collection reminds me of that period, but if songs like Daffodil Lament took me into slightly more melancholic territories, “Ode to My Family” simply made me feel good.
 The song talks about family so it was also fitting.
 
+---
 
-## Mattia: My journey to discover The Cranberries
+## 🎸 Mattia: My first trip to discover The Cranberries
 I'm not ashamed to admit that my first encounter with The Cranberries' most iconic song came through a remix.
 I first approached the band thanks to a childhood friend of mine. In the summer of 1995 he passed me the cassette of “No Need to Argue”.
 
