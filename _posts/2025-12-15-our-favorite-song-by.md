@@ -1,15 +1,17 @@
 ---
 layout: post
-title: "Our favorite song by"No Need to Argue""
+title: "Our favorite song by'No Need to Argue'"
 date: 2025-12-15
 description: "Find out which songs by The Cranberries of'album No Need to Argue sono le preferite di Cristina, Stefano e Mattia dei The Lizberries."
 image: /assets/images/posts/spiaggia.webp
 original_file: "2025-12-15-la-nostra-canzone-preferita-di-no-need-to-argue.md"
 ---
-<!--more-->
 ## Cristina: No Need to Argue, an album full of precious pearls
 
 At the risk of sounding obvious, my favorite song by The Cranberries is “Zombie”.
+
+<!--more-->
+
 
 ## Why “Zombie”?
 Not only for its fame, but for the dense meaning it brings with it. Every time I play it or listen to it again, I feel that rough and visceral power, like a collective cry against violence and injustice.
