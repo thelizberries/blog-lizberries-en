@@ -49,4 +49,4 @@ Possible stages 2026
 - Holland
 - Switzerland
 
-The new year opens with enthusiasm and with many opportunities to experience the music of The Cranberries up close and continue to celebrate the band's artistic legacy.
+The new year opens with enthusiasm and with many opportunities to experience the music of The Cranberries up close and continue to celebrate the artistic legacy of the band.
