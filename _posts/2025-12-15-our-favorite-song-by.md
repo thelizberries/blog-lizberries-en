@@ -55,4 +55,4 @@ In the first months of that year I had been literally bombarded by Zombie's remi
 ### “Ridiculous Thoughts” and Dolores' voice
 Apart from the global hit, I believe that this song best encapsulates the most beautiful sounds of that album and highlights the extraordinary peculiarity of Dolores' voice: from the sweetness of her initial vocalization to a crescendo that explodes in the impetus of the chorus and in the powerful final closing
 
-🎶 **<a href="https://youtu.be/FbkWGjNMT3s?si=B8RNswkOu-yPikUS" target="_blank" rel="noopener" style="text-decoration: underline;">Guarda il video in cui abbiamo suonato Zombie al Dolan's di Limerick</a>**
+🎶 **<a href="https://youtu.be/TgRQ1QUmh3w?si=wJ1PwPCOzv920nfx" target="_blank" rel="noopener" style="text-decoration: underline;">Guarda il video in cui abbiamo suonato Zombie al Dolan's di Limerick</a>**
