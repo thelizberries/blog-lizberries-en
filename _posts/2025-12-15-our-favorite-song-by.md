@@ -29,7 +29,7 @@ It is a song that seems to breathe: in the first part it is reflective, almost f
 Music follows the flow of emotions, grows, opens up, accompanies you on a small inner journey.
 
 ### “Ode to My Family”, the need to be understood
-And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholic melody.
+And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholy melody.
 
 ---
 
