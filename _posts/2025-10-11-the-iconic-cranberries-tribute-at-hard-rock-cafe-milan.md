@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "THE'iconico tributo ai The Cranberries all'Hard Rock cafè Milano"
+title: "The iconic Cranberries tribute live at Hard Rock Cafe Milan"
 date: 2025-10-11
 description: "Relive our amazing tribute concert to The Cranberries all'Hard Rock cafè Milano e se te lo sei perso scopri la prossima data."
 image: /assets/images/posts/Hard rock cafè.webp
@@ -13,7 +13,7 @@ What an incredible evening we had last Friday at the Hard Rock Café!
 
 <!--more-->
 
-Despite some small technological misfortunes (including Kry's poor cell phone, which decided to abandon us right at the moment), the concert was a real success.
+Despite a few minor technical mishaps (including Kry’s poor phone, which decided to give up right at the best moment), the concert was a real success.
 
 ## Tribute to The Cranberries
 The place was full, the atmosphere was very warm and the audience was attentive, involved and full of energy, making everything even more special.
