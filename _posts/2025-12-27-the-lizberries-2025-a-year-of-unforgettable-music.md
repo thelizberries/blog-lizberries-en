@@ -3,7 +3,7 @@ layout: post
 title: 'The Lizberries' 2025: a year of unforgettable music 🎶💚'
 date: 2025-12-27
 description: 'Relive the emotions of 2025 with us with the stages of our tribute concerts to The Cranberries and stay for an unforgettable 2026 full of surprises.'
-image: /assets/images/posts/Dolans_Limerick_2.webp
+image: /assets/images/posts/Dolans Limerick 2.webp
 original_file: "2025-12-27-il-2025-dei-the-lizberries-un-anno-di-musica-indimenticabile.md"
 ---
 ## 2025: a year of music in memory of Dolores O'Riordan
