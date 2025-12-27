@@ -91,4 +91,4 @@ Thank you very much to everyone who supported us, sang, danced and shared these 
 
 Happy New Year to all of you from the heart of Lizberries!
 
-**<a href="https://www.thelizards.it/lizberries/#showcase-background-live-lizberriesurl" target="_blank" rel="noopener" style="text-decoration: underline;">Continuate a seguirci per nuove date, sorprese, e tanta, tanta musica 🎶✨</a>**
+**<a href="https://www.thelizards.it/lizberries/#showcase-background-live-lizberriesurl" target="_blank" rel="noopener" style="text-decoration: underline;">Stay tuned for new dates, surprises, and plenty of great music! 🎶✨</a>**
