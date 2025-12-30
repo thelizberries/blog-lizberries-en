@@ -10,7 +10,6 @@ Cristina, Stefano and Mattia share their favorite songs
 
 <!--more-->
 
-
 from the album "No Need to Argue" by The Cranberries.
 
 ---
