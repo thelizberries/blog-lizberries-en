@@ -6,9 +6,12 @@ description: "Find out which songs by The Cranberries of'album No Need to Argue 
 image: /assets/images/posts/spiaggia.webp
 original_file: "2025-12-15-la-nostra-canzone-preferita-di-no-need-to-argue.md"
 ---
-Cristina, Stefano and Mattia share their favorite songs from the album "No Need to Argue" by The Cranberries.
+Cristina, Stefano and Mattia share their favorite songs
 
 <!--more-->
+
+
+from the album "No Need to Argue" by The Cranberries.
 
 ---
 
@@ -29,7 +32,7 @@ It is a song that seems to breathe: in the first part it is reflective, almost f
 Music follows the flow of emotions, grows, opens up, accompanies you on a small inner journey.
 
 ### “Ode to My Family”, the need to be understood
-And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholy melody.
+And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholic melody.
 
 ---
 
@@ -55,4 +58,4 @@ In the first months of that year I had been literally bombarded by Zombie's remi
 ### “Ridiculous Thoughts” and Dolores' voice
 Apart from the global hit, I believe that this song best encapsulates the most beautiful sounds of that album and highlights the extraordinary peculiarity of Dolores' voice: from the sweetness of her initial vocalization to a crescendo that explodes in the impetus of the chorus and in the powerful final closing
 
-🎶 **<a href="https://youtu.be/TgRQ1QUmh3w?si=wJ1PwPCOzv920nfx" target="_blank" rel="noopener" style="text-decoration: underline;">Guarda il video in cui abbiamo suonato Zombie al Dolan's di Limerick</a>**
+🎶 **<a href="https://youtu.be/TgRQ1QUmh3w?si=wJ1PwPCOzv920nfx" target="_blank" rel="noopener" style="text-decoration: underline;">Check out the video of us playing Zombie at Dolan's in Limerick</a>**

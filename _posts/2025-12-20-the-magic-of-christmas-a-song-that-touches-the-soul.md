@@ -2,7 +2,7 @@
 layout: post
 title: 'The magic of Christmas: a song that touches the soul'
 date: 2025-12-20
-description: 'Listen to “Ave Maria” sung by Dolores O''Riordan, the iconic voice of The Cranberries and Luciano Pavarotti: An extraordinary song that combines the rock voice of Dolores O''Riordan'
+description: 'Listen to “Ave Maria” sung by Dolores O'Riordan, the iconic voice of The Cranberries and Luciano Pavarotti: An extraordinary song that combines the rock voice of Dolores O'Riordan'
 image: /assets/images/posts/pavarotti.webp
 original_file: "2025-12-20-la-magia-del-natale-un-canto-che-tocca-l-anima.md"
 ---
@@ -30,4 +30,4 @@ If you also love Dolores O'Riordan's voice, listen to how The Lizberries pay hom
 
 **<a href="https://www.facebook.com/TheLizberries?locale=en_US" target="_blank" rel="noopener" style="text-decoration: underline;">👉 Don't miss our live concert dates</a>**
 
-**<a href="https://www.youtube.com/watch?v=2w8XTn61Lqo" target="_blank" rel="noopener" style="text-decoration: underline;">🎬 Watch our concert videos</a>**
+**<a href="https://www.youtube.com/watch?v=2w8XTn61Lqo" target="_blank" rel="noopener" style="text-decoration: underline;">🎬 Watch videos of our concerts</a>**
