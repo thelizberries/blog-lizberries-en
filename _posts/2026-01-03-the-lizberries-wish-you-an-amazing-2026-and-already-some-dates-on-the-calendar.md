@@ -21,7 +21,7 @@ Among the first events of the year, the tributes to **Dolores O'Riordan** could 
 
 - **16 January – Pogue Mahone's, Milan, IT** (acoustic gig, free) – commemoration of Dolores' death anniversary
 
-- **17 January – Teatro Guanella, Milan, IT** – In the footsteps of The Cranberries: docu-concert taken from our last summer tour in Ireland - Buy tickets **<a href="https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229" target="_blank" rel="noopener" style="text-decoration:underline;">>HERE</a>**
+- **17 January – Teatro Guanella, Milan, IT** – In the footsteps of The Cranberries: docu-concert taken from our last summer tour in Ireland - Buy tickets **<a href="https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229" target="_blank" rel="noopener" style="text-decoration:underline;">HERE</a>**
 
 ## Concerts not to be missed on the notes of The Cranberries: St. Patrick's Day in Italy and the UK
 Here are other unmissable moments from the first part of the year:
