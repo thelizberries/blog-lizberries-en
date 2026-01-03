@@ -37,7 +37,7 @@ Here are other unmissable moments from the first part of the year:
 
 - March 17 – Hard Rock Cafè, Milan, IT (free) – St. Patrick's Day
 
-## The Lizberries: Tour in Ireland for Dolores O'Riordan's birthday and then Spain and Slovenia
+## The Lizberries: Tour in Ireland for Dolores O'Riordan's birthday and then Spain, Slovenia and Switzerland
 We can't wait to return to Ireland to celebrate Dolores' birthday, with special concerts:
 - September 3 – Monroe's, Galway, IE
 
