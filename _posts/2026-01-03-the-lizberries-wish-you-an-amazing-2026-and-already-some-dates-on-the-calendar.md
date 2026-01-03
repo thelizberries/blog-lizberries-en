@@ -52,6 +52,8 @@ And again:
 
 - 14 November – Orto Bar, Ljubljana, SLO
 
+- November 27 - Mc Arthur's Pub, Thun, CH
+
 ## Follow the 2026 tour: don't miss the upcoming concerts in honor of The Cranberries
 2026 will be a year full of tributes, docu-concerts, acoustic evenings and celebratory moments dedicated to the music of The Cranberries, their legacy and our passion for bringing this energy to the stage.
 ## 🎶 Don't miss the opportunity to experience these emotions with us!

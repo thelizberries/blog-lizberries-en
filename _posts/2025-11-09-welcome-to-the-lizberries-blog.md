@@ -20,7 +20,7 @@ We have decided to open this small online space to share with you what we are pa
 Here you will find:
 - 🎶 behind the scenes of our projects
 - 📝 stories, thoughts and inspirations
-- 📸 photos and moments that don't end up on Instagram
+- 📸 photos and moments that never end up on Instagram
 - 💡 ideas, advice and some surprises
 
 ## A corner for everyone
