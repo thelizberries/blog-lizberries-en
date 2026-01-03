@@ -24,7 +24,7 @@ At the risk of sounding obvious, my favorite song by The Cranberries is "Zombie"
 Not only for its fame, but for the dense meaning it brings with it. Every time I play it or listen to it again, I feel that rough and visceral power, like a collective cry against violence and injustice.
 
 ### A timeless scream
-It is a piece that does not age, which continues to shake and make us reflect, just like it did in the 90s. Behind the distorted guitars and Dolores O'Riordan's unmistakable voice there is a clear anger, a pain translated into pure energy. It is impossible to remain indifferent.
+It is a piece that does not age, which continues to shake and make us think, just like it did in the 90s. Behind the distorted guitars and Dolores O'Riordan's unmistakable voice there is a clear anger, a pain translated into pure energy. It is impossible to remain indifferent.
 
 ### “Daffodil Lament”: Fragile and decisive
 But if “Zombie” is my scream, “Daffodil Lament” is my pause.
@@ -32,7 +32,7 @@ It is a song that seems to breathe: in the first part it is reflective, almost f
 Music follows the flow of emotions, grows, opens up, accompanies you on a small inner journey.
 
 ### “Ode to My Family”, the need to be understood
-And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholic melody.
+And then there are those pieces that I learned to love slowly, almost without realizing it, like “Ode to My Family”. Perhaps because it talks about roots, about identity, about that need to be understood. Every time I hear it, it takes me back to specific moments, to deep memories that are intertwined with its melancholy melody.
 
 ---
 

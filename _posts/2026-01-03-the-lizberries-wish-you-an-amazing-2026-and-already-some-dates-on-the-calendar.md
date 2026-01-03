@@ -19,9 +19,9 @@ We want to wish you a year full of music, emotions and unforgettable moments, an
 Among the first events of the year, the tributes to **Dolores O'Riordan** could not be missing:
 - **January 15** – **Shamrock Pub, Lecco, IT** (acoustic gig, free) – Dolores death anniversary commemoration
 
-- **16 January – Pogue Mahone's, Milan, IT **(acoustic gig, free) – commemoration of Dolores' death anniversary
+- **16 January – Pogue Mahone's, Milan, IT** (acoustic gig, free) – commemoration of Dolores' death anniversary
 
-- **17 January – Teatro Guanella, Milan, IT** – In the footsteps of The Cranberries: docu-concert taken from our last summer tour in Ireland
+- **17 January – Teatro Guanella, Milan, IT** – In the footsteps of The Cranberries: docu-concert taken from our last summer tour in Ireland - Buy tickets **<a href="https://www.vivaticket.com/it/ticket/the-lizberries-sulle-tracce-dei-cranberries/279229" target="_blank" rel="noopener" style="text-decoration:underline;">>HERE</a>**
 
 ## Concerts not to be missed on the notes of The Cranberries: St. Patrick's Day in Italy and the UK
 Here are other unmissable moments from the first part of the year:
@@ -59,8 +59,8 @@ And again:
 - Social: Follow the backstage and updates in real time
 Warm wishes from all of us at Lizberries: may 2026 be extraordinary, musical and unforgettable!💚
 
-**<a href="url"https://www.facebook.com/TheLizberries/?locale=en_US target="_blank" rel="noopener" style="text-decoration: underline;">Facebook🎼</a>**
+**<a href="https://www.facebook.com/TheLizberries/?locale=en_US" target="_blank" rel="noopener" style="text-decoration: underline;">Facebook🎼</a>**
 
-**<a href="url"https://www.instagram.com/thelizberries/ target="_blank" rel="noopener" style="text-decoration: underline;">Instagram🎙</a>**
+**<a href="https://www.instagram.com/thelizberries/" target="_blank" rel="noopener" style="text-decoration: underline;">Instagram🎙</a>**
 
-**<a href="url"https://www.thelizards.it/lizberries/ target="_blank" rel="noopener" style="text-decoration: underline;">Buy tickets👇</a>**
+**<a href="https://www.thelizards.it/lizberries/" target="_blank" rel="noopener" style="text-decoration: underline;">Buy tickets👇</a>**
