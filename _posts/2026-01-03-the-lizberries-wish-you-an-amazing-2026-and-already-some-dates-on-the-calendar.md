@@ -2,16 +2,14 @@
 layout: post
 title: 'The Lizberries wish you an amazing 2026... and already some dates on the calendar!🎶💚'
 date: 2026-01-03
-description: 'The Lizberries wish their fans a year full of music and share the 2026 tour dates in memory of Dolores O’Riordan and her band, The Cranberries.'
+description: 'The Lizberries wish their fans a year full of music and share the 2026 tour dates in memory of Dolores O'Riordan and her band, The Cranberries.'
 image: /assets/images/posts/Cork Cyprus Avenue 2.webp
 original_file: "2026-01-03-the-lizberries-augurano-uno-strepitoso-2026-e-gia-alcune-date-in-calendario.md"
 ---
-## Tour 2026: a year full of music and emotions
+## Tour 2026: a year full of music and emotions on the notes of The Cranberries
 
 <!--more-->
 
-
-to the tune of The Cranberries
 
 Dear friends,
 2026 is finally here and we at Lizberries couldn't be more excited!🎉
