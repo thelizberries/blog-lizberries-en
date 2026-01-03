@@ -14,7 +14,7 @@ original_file: "2026-01-03-the-lizberries-augurano-uno-strepitoso-2026-e-gia-alc
 Dear friends,
 2026 is finally here and we at Lizberries couldn't be more excited!🎉
 
-We want to wish you a year full of music, emotions and unforgettable moments, and we are happy to share with you some dates already scheduled for our concerts in Italy, the United Kingdom, Ireland, Spain and Slovenia.
+We want to wish you a year full of music, emotions and unforgettable moments, and we are happy to share with you some dates already scheduled for our concerts in Italy, the United Kingdom, Ireland, Spain, Slovenia and Switzerland.
 ## January in memory of Dolores O'Riordan
 Among the first events of the year, the tributes to **Dolores O'Riordan** could not be missing:
 - **January 15** – **Shamrock Pub, Lecco, IT** (acoustic gig, free) – Dolores death anniversary commemoration
