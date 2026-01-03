@@ -63,4 +63,4 @@ Warm wishes from all of us at Lizberries: may 2026 be extraordinary, musical and
 
 **<a href="https://www.instagram.com/thelizberries/" target="_blank" rel="noopener" style="text-decoration: underline;">Instagram🎙</a>**
 
-**<a href="https://www.thelizards.it/lizberries/" target="_blank" rel="noopener" style="text-decoration: underline;">Buy tickets👇</a>**
+**<a href="https://www.thelizards.it/lizberries/#showcase-background-live-lizberries" target="_blank" rel="noopener" style="text-decoration: underline;">Buy tickets👇</a>**
