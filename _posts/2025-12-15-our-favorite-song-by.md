@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Our favorite song by"No Need to Argue"'
+title: "Our favorite song by"No Need to Argue"'
 date: 2025-12-15
-description: "Find out which songs by The Cranberries of'album No Need to Argue sono le preferite di Cristina, Stefano e Mattia dei The Lizberries."
+description: "Find out which songs by The Cranberries of"album No Need to Argue sono le preferite di Cristina, Stefano e Mattia dei The Lizberries."
 image: /assets/images/posts/spiaggia.webp
 original_file: "2025-12-15-la-nostra-canzone-preferita-di-no-need-to-argue.md"
 ---
