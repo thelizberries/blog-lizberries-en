@@ -1,15 +1,18 @@
 ---
 layout: post
-title: 'The Lizberries wish you an amazing 2026… and already some dates on the calendar!🎶💚'
+title: 'The Lizberries wish you an amazing 2026... and already some dates on the calendar!🎶💚'
 date: 2026-01-03
-description: 'The Lizberries wish their fans a year full of music and share the 2026 tour dates in memory of Dolores O'Riordan and her band, The Cranberries.'
+description: 'The Lizberries wish their fans a year full of music and share the 2026 tour dates in memory of Dolores O’Riordan and her band, The Cranberries.'
 image: /assets/images/posts/Cork Cyprus Avenue 2.webp
 original_file: "2026-01-03-the-lizberries-augurano-uno-strepitoso-2026-e-gia-alcune-date-in-calendario.md"
 ---
 ## Tour 2026: a year full of music and emotions on the notes of The Cranberries
 
 Dear friends,
+
 <!--more-->
+
+
 2026 is finally here and we at Lizberries couldn't be more excited!🎉
 
 We want to wish you a year full of music, emotions and unforgettable moments, and we are happy to share with you some dates already scheduled for our concerts in Italy, the United Kingdom, Ireland, Spain and Slovenia.
@@ -17,9 +20,7 @@ We want to wish you a year full of music, emotions and unforgettable moments, an
 Among the first events of the year, the tributes to **Dolores O'Riordan** could not be missing:
 - **January 15** – **Shamrock Pub, Lecco, IT** (acoustic gig, free) – Dolores death anniversary commemoration
 
-
 - **16 January – Pogue Mahone's, Milan, IT **(acoustic gig, free) – commemoration of Dolores' death anniversary
-
 
 - **17 January – Teatro Guanella, Milan, IT** – In the footsteps of The Cranberries: docu-concert taken from our last summer tour in Ireland
 ## Concerts not to be missed on the notes of The Cranberries: St. Patrick's Day in Italy and the UK
