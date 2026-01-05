@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "December break and return live to Milan with the music of The Cranberries"
+title: "December break and return live to Milan"
 date: 2025-12-13
 description: "The Lizberries take a break in December, but return on January 17th at the Teatro Guanella with a show dedicated to their tour of Ireland."
 original_file: "2025-12-13-dicembre-di-pausa-e-ritorno-live-a-milano-con-la-musica-dei-the-cranberries.md"

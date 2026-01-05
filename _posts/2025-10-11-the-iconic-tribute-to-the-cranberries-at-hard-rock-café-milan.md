@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The iconic tribute to The Cranberries at Hard Rock café Milan"
+title: "The Cranberries tribute at Hard Rock Milan"
 date: 2025-10-11
 description: "Relive our fantastic tribute concert to The Cranberries at the Hard Rock café Milan and if you missed it, find out the next date."
 image: /assets/images/posts/Hard rock cafè.webp
