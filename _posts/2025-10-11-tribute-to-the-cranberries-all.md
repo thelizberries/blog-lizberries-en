@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The Cranberries tribute at Hard Rock Milan"
+title: "Tribute to The Cranberries all"Hard Rock Milano"
 date: 2025-10-11
 description: "Relive our fantastic tribute concert to The Cranberries at the Hard Rock café Milan and if you missed it, find out the next date."
 image: /assets/images/posts/Hard rock cafè.webp
 original_file: "2025-10-11-l-iconico-tributo-ai-the-cranberries-all-hard-rock-cafe-milano.md"
+source_hash: "a568a9236283d92a23d9c293acfdc9c2"
 ---
 ## A Friday to remember at the Hard Rock Café
 

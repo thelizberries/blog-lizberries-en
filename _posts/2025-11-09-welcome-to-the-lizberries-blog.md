@@ -5,6 +5,7 @@ date: 2025-11-10
 image: /assets/images/posts/theLizberries.webp
 description: "Discover The Lizberries blog: stories, projects, behind the scenes and inspirations dedicated to The Cranberries.An open diary for those who love music."
 original_file: "2025-11-09-welcome.md"
+source_hash: "f6bba68442f8016b46e2e3a4d9c614c8"
 ---
 ## Who we are
 We are the Lizberries, a group of friends and musicians who created a tribute band dedicated to The Cranberries in 2010.
@@ -20,7 +21,7 @@ We have decided to open this small online space to share with you what we are pa
 Here you will find:
 - 🎶 behind the scenes of our projects
 - 📝 stories, thoughts and inspirations
-- 📸 photos and moments that never end up on Instagram
+- 📸 photos and moments that don't end up on Instagram
 - 💡 ideas, advice and some surprises
 
 ## A corner for everyone

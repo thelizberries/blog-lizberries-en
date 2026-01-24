@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "The magic of Christmas: a touching song"
+title: "The magic of Christmas: an emotional song"
 date: 2025-12-20
 description: "Listen to “Ave Maria” sung by Dolores O'Riordan, the iconic voice of The Cranberries and Luciano Pavarotti: An extraordinary song that combines the rock voice of Dolores O'Riordan"
 image: /assets/images/posts/pavarotti.webp
 original_file: "2025-12-20-la-magia-del-natale-un-canto-che-tocca-l-anima.md"
+source_hash: "a11b1a440788881f0308e40720077017"
 ---
 ## December: a magical month
 December is that special month that invites us to slow down, to look
