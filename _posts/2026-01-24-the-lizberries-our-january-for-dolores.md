@@ -5,13 +5,13 @@ date: 2026-01-24
 description: "Relive the emotions of the January concerts with The Lizberries: a musical journey to remember Dolores O'Riordan, The Cranberries"
 image: /assets/images/posts/The lizberries omaggio a Dolores.webp
 original_file: "2026-01-24-the-lizberries-il-nostro-gennaio-per-dolores.md"
-source_hash: "5e937f53eb6d1497ab166b9aeab8ffa7"
+source_hash: "818ba1c40a92bfbec88e83b38ab3b05a"
 ---
 ## January concerts: our journey into feelings to the tune of The Cranberries
-There are evenings that remain imprinted not only for the music, 
+There are evenings that remain imprinted not only for the music,
+
 
 <!--more-->
-
 
 but for the energy that arises spontaneously between stage and audience.
 
