@@ -8,10 +8,15 @@ original_file: "2026-01-24-the-lizberries-il-nostro-gennaio-per-dolores.md"
 source_hash: "5e937f53eb6d1497ab166b9aeab8ffa7"
 ---
 ## January concerts: our journey into feelings to the tune of The Cranberries
-There are evenings that remain imprinted not only for the music, but for the energy that arises spontaneously between stage and audience.
+There are evenings that remain imprinted not only for the music, 
+
+<!--more-->
+
+
+but for the energy that arises spontaneously between stage and audience.
 
 This was the case for our mini-tour in January, in which three concerts turned into a real emotional journey.
-<!--more-->
+
 ## The Shamrock Pub in Lecco: our favorite place to remember Dolores O'Riordan
 
 The first stop was at **The Shamrock Pub in Lecco**, an intimate venue with an authentically Irish flavour.
