@@ -5,10 +5,12 @@ date: 2026-02-07
 description: "The Lizberries warm up the Val di Susa: a pub in the mountains, the music of The Cranberries and an incredible audience.Discover the concert to the tune of Zombie"
 image: /assets/images/posts/The Lizberries al Maravallino.webp
 original_file: "2026-02-07-the-lizberries-portano-zombie-in-val-di-susa.md"
-source_hash: "b72a3b775e0d9adfd6bf6f44af27ca8b"
+source_hash: "27c56eb56d2abb9b2a025db1f2578b29"
 ---
 ## A pleasant and unexpected engagement: the most beautiful songs by The Cranberries in Sauze d'Oulx
 This time it all happened very quickly, almost by chance
+
+
 <!--more-->
 
 «Are you free on Friday for a concert at the Miravallino in Sauze d'Oulx?»
