@@ -5,7 +5,7 @@ date: 2026-02-07
 description: "The Lizberries warm up the Val di Susa: a pub in the mountains, the music of The Cranberries and an incredible audience.Discover the concert to the tune of Zombie"
 image: /assets/images/posts/The Lizberries al Maravallino.webp
 original_file: "2026-02-07-the-lizberries-portano-zombie-in-val-di-susa.md"
-source_hash: "64072c183b64cb1ce03fcf98940fae94"
+source_hash: "04954021ccb20e2abe391bdc4d1d7076"
 ---
 ## A pleasant and unexpected engagement: the most beautiful songs by The Cranberries in Sauze d'Oulx
 This time it all happened very quickly, almost by chance
@@ -35,7 +35,7 @@ It was really lovely.
 We thank you from the bottom of our hearts for this wonderful experience, which ended with a night in an equally special apartment: Casa - elé in Exilles, which welcomed us with warmth and intimacy, almost as if it were a fairytale house. What more could you want?
 ## Don't miss our acoustic session at Pogue Mahone's
 But let's not stop warming these cold nights.
-We are waiting for you on Monday 9 February for an **intimate acoustic session** at** Pogue Mahone's** in Milan: no electricity, no artificial constructions.
+We are waiting for you on Monday 9 February for an **intimate acoustic session** at **Pogue Mahone's** in Milan: no electricity, no artificial constructions.
 
 Mattia's guitar, Cristina's voice and the voice of the audience around a table, like in real Irish pubs.
 
