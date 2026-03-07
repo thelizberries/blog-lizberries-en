@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "The Lizberries & The Cranberries: Homage to Tortuga"
+title: "The Lizberries & The Cranberries: Homage to the Tortuga Pub"
 date: 2026-02-27
 description: "You can't miss it: The Lizberries perform in one of their favorite venues.Sing The Cranberries with us tonight 28/02 at the Tortuga Pub"
 image: /assets/images/posts/The Lizberries@Tortuga Pub.webp
 original_file: "2026-02-27-the-lizberries-the-cranberries-omaggio-al-tortuga.md"
-source_hash: "7c62a6490f189568042fe5e64503ecbb"
+source_hash: "c772bc8708cb5e341481faafbf2538c1"
 ---
 ## Let's Go Home: The Lizberries with The Cranberries at the Tortuga Pub
 Tonight we return to play in one of our historic venues.
-<!--more-->
+
+<!-- more -->
+
+
 **One of the first who believed in us** when we started performing as Lizberries.
 
 And every time we set foot in there again it's a bit like coming home. We can't wait!
