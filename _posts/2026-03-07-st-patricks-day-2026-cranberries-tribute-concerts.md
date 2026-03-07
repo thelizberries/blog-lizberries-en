@@ -5,7 +5,7 @@ date: 2026-03-07
 description: "Discover all our concerts for St. Patrick's Day 2026 dedicated to the Cranberries: dates in Busto Arsizio, Liverpool, Manchester, Chester and Milan at the Hard Rock Cafe"
 image: /assets/images/posts/St.Patrick's 2026.webp
 original_file: "2026-03-07-san-patrizio-2026-concerti-tributo-cranberries.md"
-source_hash: "9c9031ac8cc651d25078230170c12519"
+source_hash: "4c36b4083dc80afd3660dca98d94f211"
 ---
 ## St. Patrick's Day 2026: Cranberries tribute concerts between Italy and the United Kingdom ☘️
 
@@ -22,8 +22,11 @@ Here are all the dates where you can experience the atmosphere of St. Patrick's 
 The St. Patrick's Day 2026 tour will begin with a special acoustic evening in Lombardy, perfect to warm up the atmosphere before the official celebrations.
 
 📍 The Millennium Irish Pub – Busto Arsizio (VA)
+
 📅 Tuesday 10 March
+
 🕘 8.30pm
+
 🎸 An acoustic journey through Dolores's most beloved melodies.
 
 During the concert, acoustic versions of the Cranberries' most beloved songs will be performed, in a musical journey that passes through the symbolic songs of the Irish band.</br>
@@ -36,24 +39,33 @@ After the Italian date, the tour will move to the United Kingdom, with three con
 ## Concert in Liverpool – Invisible Wind Factory
 
 📍 Liverpool
+
 📅 Sunday 15 March
+
 🕘 9pm
+
 
 Liverpool is a symbolic city of international music. In this unique location we will bring to the stage a tribute to the Cranberries at the heart of the British music scene.
 
 ## Concert in Manchester – Freight Island
 
 📍 Manchester
+
 📅 Sunday 15 March
+
 🕑 2pm
+
 
 Manchester will host an afternoon live show dedicated to the Cranberries' great classics, in one of the most dynamic spaces dedicated to music and live events.
 
-## Concert in Chester – Alexander's Live
+## Concert in Chester – Alexander’s Live
 
 📍 Chester
+
 📅 Sunday 15 March
+
 🕘 9pm
+
 
 The British weekend will end with an evening concert in one of the historic clubs of English live music.
 
@@ -62,8 +74,11 @@ The British weekend will end with an evening concert in one of the historic club
 The grand finale of St. Patrick's Day 2026 will be held on March 17, the official day of the Irish holiday.
 
 📍 Hard Rock Cafe – Milan (Via Dante)
+
 📅 Tuesday 17 March
+
 🕘 9pm
+
 
 A special evening to celebrate St. Patrick's Day in Milan, with live music, Irish atmosphere and the Cranberries' great hits to sing together.
 
