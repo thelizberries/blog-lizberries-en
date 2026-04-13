@@ -2,10 +2,10 @@
 layout: post
 title: "The Queen of Limerick comes to the Royal Theatre"
 date: 2026-04-11
-description: "The Queen of Limerick arrives at the Royal Theater in Castlebar on 31 May 2026: an Irish rock recital dedicated to Dolores O'Riordan of The Cranberries"
+description: "The Queen of Limerick arrives at the Royal Theater in Castlebar on 31 May 2026: an Irish rock recital dedicated to Dolores O"Riordan dei The Cranberries"
 image: /assets/images/posts/tfroyal_Queen_Of_Limerick.webp
 original_file: "2026-04-11-the-queen-of-limerick-arriva-al-royal-theatre.md"
-source_hash: "767a158eead034efe0fe9c5e7241858a"
+source_hash: "ff46111bd5216936a62cb7e00e7f630d"
 ---
 The Queen of Limerick finally arrives in Ireland for an evening that promises to be unforgettable.
 
