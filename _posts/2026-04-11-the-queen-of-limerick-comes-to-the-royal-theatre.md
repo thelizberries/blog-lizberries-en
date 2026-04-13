@@ -18,7 +18,7 @@ The Queen of Limerick is much more than just a tribute. It is an Irish rock reci
 The story comes to life through an intense and authentic flow of memory, in which the music of the Cranberries is intertwined with the expressive power of Irish dance.
 Tradition and modernity come together in a unique performance, capable of exciting the audience from start to finish.
 ## A tribute to Dolores O'Riordan and Ireland
-On stage, together with **<a href="https://www.gensdys.it/" target="_blank" rel="noopener">Gens D'ys</a>**, **<a href="https://andrearock.it/" target="_blank" rel="noopener">Andrea Rock</a>** and **<a href="https://www.instagram.com/deborah_dnasty/"target="_blank" rel="noopener">Deborah Pini</a>**, a profound celebration of Irish music and culture will be staged.
+On stage, together with **<ahref="https://www.gensdys.it/" target="_blank" rel="noopener">Gens D'ys</a>**, **<ahref="https://andrearock.it/" target="_blank" rel="noopener">Andrea Rock</a>** and **<ahref="https://www.instagram.com/deborah_dnasty/"target="_blank" rel="noopener">Deborah Pini</a>**, a profound celebration of Irish music and culture will be staged.
 Each scene tells the soul of Ireland: its history, its contradictions and its extraordinary beauty.
 The rock sounds of The Cranberries blend with the rhythms of traditional dances, creating a show that is not limited to being seen, but is experienced.
 It is a sincere tribute to a voice that marked an era and to a land that continues to inspire emotions.
