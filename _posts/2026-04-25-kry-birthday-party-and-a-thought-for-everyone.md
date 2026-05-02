@@ -3,6 +3,7 @@ layout: post
 title: "Kry birthday party and a thought for everyone"Irlanda"
 date: 2026-04-25
 description: "The Lizberries live 2026: Liz Kry's birthday and concert in Castlebar with The Queen of Limerick, tribute to Dolores O'Riordan."
+image: /assets/images/posts/compleanno_kry_2026_con_Lizberries.webp
 original_file: "2026-04-25-festa-compleanno-kry-ed-un-pensiero-all-irlanda.md"
 source_hash: "ad8a9cc6186760e3e978df043dd34afe"
 ---
