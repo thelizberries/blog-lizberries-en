@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Kry's birthday celebration with a nod to Ireland"
+title: "Kry birthday party and a thought for everyone"Irlanda"
 date: 2026-04-25
 description: "The Lizberries live 2026: Liz Kry's birthday and concert in Castlebar with The Queen of Limerick, tribute to Dolores O'Riordan."
 image: /assets/images/posts/compleanno_kry_2026_con_Lizberries.webp
 original_file: "2026-04-25-festa-compleanno-kry-ed-un-pensiero-all-irlanda.md"
-source_hash: "ad8a9cc6186760e3e978df043dd34afe"
+source_hash: "5102bf4118b2ab862c9df2e19da1ea36"
 ---
 ## Liz Kry's birthday on Voice Day
 For Liz Kry, April 16th is not a date like any other.
@@ -28,8 +28,7 @@ This is a recital dedicated to Dolores O'Riordan, which combines music, story an
 Bringing it to Ireland has a strong symbolic value. It means bringing this music back to the place where it was born.
 
 ### Castlebar concert details
-When: May 31, 2026
-
+When: May 31, 2026<br>
 Where: Royal Theater Castlebar<br>
 Entertainment: The Queen of Limerick<br>
 With: The Lizberries, Gens d'Ys, Andrea Rock<br>
