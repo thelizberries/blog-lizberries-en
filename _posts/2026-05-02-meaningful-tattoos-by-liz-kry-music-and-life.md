@@ -3,12 +3,13 @@ layout: post
 title: "Meaningful Tattoos by Liz Kry: Music and Life"
 date: 2026-05-02
 description: "Liz Kry's meaningful tattoos talk about music, family and dreams: from the LLCM diploma to Dolores O'Riordan and The Lizards."
-image: /assets/images/posts/WhatsApp Image 2026-04-28 at 09.13.35.webp
+image: /assets/images/posts/Liz Kry con tatuaggio su avambraccio con frase di Dolores ORiordan.webp
 original_file: "2026-05-02-tatuaggi-significativi-di-liz-kry-musica-e-vita.md"
-source_hash: "a519c7eecd6dcf2d9bc535395743ebdf"
+source_hash: "0eab903ac035ea0bcf95dbf0a8fa34fe"
 ---
-There are those who write diaries, those who take photographs.<br>
+There are those who write diaries, those who take photographs.
 I chose to imprint the moments
+
 
 <!--more-->
 
