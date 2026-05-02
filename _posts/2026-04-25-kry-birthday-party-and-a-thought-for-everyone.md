@@ -30,9 +30,9 @@ Bringing it to Ireland has a strong symbolic value. It means bringing this music
 ### Castlebar concert details
 When: May 31, 2026
 
-Where: Royal Theater Castlebar</br>
-Entertainment: The Queen of Limerick</br>
-With: The Lizberries, Gens d'Ys, Andrea Rock</br>
+Where: Royal Theater Castlebar<br>
+Entertainment: The Queen of Limerick<br>
+With: The Lizberries, Gens d'Ys, Andrea Rock<br>
 👉 Buy tickets: <a href="https://tfroyal.ticketsolve.com/ticketbooth/shows/1173674482" target="_blank" rel="noopener">here</a>!
 
 ## A journey between music and identity
