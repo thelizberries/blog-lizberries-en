@@ -4,7 +4,7 @@ title: "Lizberries on Radio Deejay Fox"
 date: 2026-05-12
 description: "The Lizberries guests on Radio Deejay Fox on April 29th: thirteen years of tribute to the Cranberries, Linger, Dreams and the upcoming Irish tour."
 original_file: "2026-05-12-lizberries-a-radio-deejay-fox.md"
-source_hash: "86eb28a343a7274fe9b0caf54fd62616"
+source_hash: "75f9bc191828972018f7a658d7abd259"
 ---
 ## Lizberries on Radio Deejay Fox: thirteen years of tribute to the Cranberries
 
@@ -46,4 +46,4 @@ Bringing our tribute to Ireland is not a stop on a tour: it is a circle that clo
 
 We will return to Radio Deejay Fox with our shoes still wet and our ears full of wind. A huge hug to all the staff - it's one of the most loved web radios in Italy, and you can see it, you can hear it, every time we go up to that room.
 
-👉 **<a href="https://blog.lizberries.thelizards.it/2026/04/11/the-queen-of-limerick-arriva-al-royal-theatre.html" target="_blank" rel="noopener" style="text-decoration: underline;">Experience The Queen of Limerick at the TF Royal Theater →</a>**
+<!-- 👉 **<a href="https://blog.lizberries.thelizards.it/2026/04/11/the-queen-of-limerick-arriva-al-royal-theatre.html" target="_blank" rel="noopener" style="text-decoration: underline;">Experience The Queen of Limerick at the TF Royal Theater →</a>** -->

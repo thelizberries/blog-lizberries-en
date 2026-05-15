@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Kry's birthday celebration with a nod to Ireland"
+title: "Kry birthday party and a thought for everyone"Irlanda"
 date: 2026-04-25
 description: "The Lizberries live 2026: Liz Kry's birthday and concert in Castlebar with The Queen of Limerick, tribute to Dolores O'Riordan."
 image: /assets/images/posts/compleanno_kry_2026_con_Lizberries.webp
 original_file: "2026-04-25-festa-compleanno-kry-ed-un-pensiero-all-irlanda.md"
-source_hash: "5102bf4118b2ab862c9df2e19da1ea36"
+source_hash: "4fca2d4a7bb13fad9896b67363217dfc"
 ---
 ## Liz Kry's birthday on Voice Day
 For Liz Kry, April 16th is not a date like any other.
@@ -23,16 +23,16 @@ Immediately afterwards came a dedication to herself. A simple but significant ge
 
 ## The Queen of Limerick in Castlebar
 After the birthday, attention shifts to the next appointment.
-At the end of May, exactly the 31st, the band will be in Ireland with the recital The Queen of Limerick. The show will be staged at the Royal Theater Castlebar.
+In the future the band will be in Ireland with the recital The Queen of Limerick. The show will be staged at the Royal Theater Castlebar.
 This is a recital dedicated to Dolores O'Riordan, which combines music, story and dance.
 Bringing it to Ireland has a strong symbolic value. It means bringing this music back to the place where it was born.
 
 ### Castlebar concert details
-When: May 31, 2026<br>
+When: TBD<br>
 Where: Royal Theater Castlebar<br>
 Entertainment: The Queen of Limerick<br>
 With: The Lizberries, Gens d'Ys, Andrea Rock<br>
-👉 Buy tickets: <a href="https://tfroyal.ticketsolve.com/ticketbooth/shows/1173674482" target="_blank" rel="noopener">here</a>!
+<!-- 👉 Buy tickets: <a href="https://tfroyal.ticketsolve.com/ticketbooth/shows/1173674482" target="_blank" rel="noopener">here</a>!-->
 
 ## A journey between music and identity
 This project represents an important step.
