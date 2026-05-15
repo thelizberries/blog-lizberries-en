@@ -2,7 +2,7 @@
 layout: post
 title: "The Queen of Limerick comes to the Royal Theatre"
 date: 2026-04-11
-description: "The Queen of Limerick arrives at the Royal Theater in Castlebar on 31 May 2026: an Irish rock recital dedicated to Dolores O"Riordan dei The Cranberries"
+description: "The Queen of Limerick arrives at the Royal Theater in Castlebar on 31 May 2026: an Irish rock recital dedicated to Dolores O'Riordan dei The Cranberries"
 image: /assets/images/posts/tfroyal_Queen_Of_Limerick.webp
 original_file: "2026-04-11-the-queen-of-limerick-arriva-al-royal-theatre.md"
 source_hash: "07ee9f00580c9df383d948ae3c0ff808"
