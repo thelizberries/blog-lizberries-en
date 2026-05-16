@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Animal Instinct and the maternal side of Dolores O"Riordan"
+title: "Animal Instinct and the maternal side of Dolores O'Riordan"
 date: 2026-05-10
 description: "Animal Instinct tells the maternal side of Dolores O'Riordan between love, emotional difficulties and protection towards her children"
 image: /assets/images/posts/IMG_1935.webp
