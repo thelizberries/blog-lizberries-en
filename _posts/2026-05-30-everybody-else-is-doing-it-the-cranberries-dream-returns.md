@@ -2,18 +2,19 @@
 layout: post
 title: "Everybody Else Is Doing It: The Cranberries' dream returns"
 date: 2026-05-30
-description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O"Riordan"
+description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O'Riordan"
 image: /assets/images/posts/Cranberries Everybody Else Is Doing It Vinyl.webp
 original_file: "2026-05-30-cranberries-everybody-else-is-doing-it-in-deluxe.md"
 source_hash: "db03dc03721efd6436268b4c3cc7793f"
 ---
 ## The return of an extraordinary album
 
-*Everybody Else Is Doing It, So Why Can't
+*Everybody Else Is Doing It, So Why Can't We?* 
+
 
 <!--more-->
 
-We?* by The Cranberries has just returned in a new deluxe remastered edition. With him the voice of Dolores O'Riordan has returned, the light of the nineties, the sense of something fragile and precious at the same time. A debut album which, thirty years later, has lost none of its strength.
+by The Cranberries has just returned in a new deluxe remastered edition. With him the voice of Dolores O'Riordan has returned, the light of the nineties, the sense of something fragile and precious at the same time. A debut album which, thirty years later, has lost none of its strength.
 
 On the evening of May 21st, Andrea Rock dedicated a special on Virgin Radio to this album. Not a simple radio program — a true emotional immersion that brought us back into that universe.
 
