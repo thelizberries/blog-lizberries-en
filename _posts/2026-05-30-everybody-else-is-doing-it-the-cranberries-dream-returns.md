@@ -2,7 +2,7 @@
 layout: post
 title: "Everybody Else Is Doing It: The Cranberries' dream returns"
 date: 2026-05-30
-description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O"Riordan"
+description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O'Riordan"
 image: /assets/images/posts/Cranberries Everybody Else Is Doing It Vinyl.webp
 original_file: "2026-05-30-cranberries-everybody-else-is-doing-it-in-deluxe.md"
 source_hash: "5b435275c0045b3949f0deb3e86ef752"
