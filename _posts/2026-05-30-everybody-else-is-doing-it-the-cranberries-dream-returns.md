@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Cranberries: Everybody Else Is Doing It in deluxe"
+title: "Everybody Else Is Doing It: The Cranberries' dream returns"
 date: 2026-05-30
-description: "Everybody Else Is Doing It by The Cranberries has been released in a deluxe remastered edition.Cristina of the Lizberries tells why it is Dolores O's most loved album"Rio"
-image: /assets/images/posts/konstantinos-hasandras-u633cpBSjro-unsplash.webp
+description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O"Riordan"
+image: /assets/images/posts/Cranberries Everybody Else Is Doing It Vinyl.webp
 original_file: "2026-05-30-cranberries-everybody-else-is-doing-it-in-deluxe.md"
-source_hash: "78da6284b56613e45793bdb1fc4c4a6f"
+source_hash: "db03dc03721efd6436268b4c3cc7793f"
 ---
 ## The return of an extraordinary album
 
@@ -16,10 +16,6 @@ source_hash: "78da6284b56613e45793bdb1fc4c4a6f"
 We?* by The Cranberries has just returned in a new deluxe remastered edition. With him the voice of Dolores O'Riordan has returned, the light of the nineties, the sense of something fragile and precious at the same time. A debut album which, thirty years later, has lost none of its strength.
 
 On the evening of May 21st, Andrea Rock dedicated a special on Virgin Radio to this album. Not a simple radio program — a true emotional immersion that brought us back into that universe.
-
-
-
-★
 
 ## The Dolores album we loved the most
 
@@ -37,8 +33,6 @@ Among all, one song deserves a special mention: *Them*. Rarely cited, rarely per
 
 The album closes with *How* — almost an emotional resolution. As if Dolores, after all the wounds and doubts, was finally ready to leave that story behind and launch herself towards her dreams. The episode then closed with a further gem: *Liar*.
 
-★
-
 ## The special on Virgin Radio: when and where
 
 The special aired on **May 21, 2026** on **Virgin Radio**, hosted by **Andrea Rock**.
@@ -46,8 +40,6 @@ The special aired on **May 21, 2026** on **Virgin Radio**, hosted by **Andrea Ro
 The pretext was the release of the new deluxe remastered edition of the album — but the result was something more: an emotional journey inside the album that marked the beginning of an extraordinary career.
 
 If you want to delve deeper into the connection between Dolores O'Riordan and her most intimate music, also read our article on **<a href="https://blog.lizberries.thelizards.it/2026/05/10/animal-instinct-e-il-lato-materno-di-dolores.html" target="_blank" rel="noopener" style="text-decoration: underline;">Animal Instinct andthe maternal side of Dolores O'Riordan</a>**.
-
-★
 
 ## Continue following the Lizberries
 
