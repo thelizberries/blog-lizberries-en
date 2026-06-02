@@ -5,18 +5,18 @@ date: 2026-05-30
 description: "Everybody Else Is Doing It by The Cranberries returns in a deluxe remastered edition, bringing to light the magic of Dolores O'Riordan"
 image: /assets/images/posts/Cranberries Everybody Else Is Doing It Vinyl.webp
 original_file: "2026-05-30-cranberries-everybody-else-is-doing-it-in-deluxe.md"
-source_hash: "db03dc03721efd6436268b4c3cc7793f"
+source_hash: "5b435275c0045b3949f0deb3e86ef752"
 ---
 ## The return of an extraordinary album
 
-*Everybody Else Is Doing It, So Why Can't We?* 
+*Everybody Else Is Doing It, So Why Can't We?*
 
 
 <!--more-->
 
 by The Cranberries has just returned in a new deluxe remastered edition. With him the voice of Dolores O'Riordan has returned, the light of the nineties, the sense of something fragile and precious at the same time. A debut album which, thirty years later, has lost none of its strength.
 
-On the evening of May 21st, Andrea Rock dedicated a special on Virgin Radio to this album. Not a simple radio program — a true emotional immersion that brought us back into that universe.
+On the evening of May 21st, Andrea Rock dedicated a special on Virgin Radio to this album. Not a simple radio program — a true emotional immersion that took us back into that universe.
 
 ## The Dolores album we loved the most
 
@@ -26,7 +26,7 @@ Like many fans, the first encounter with the band came through *Zombie*. The rea
 
 When the time came to listen to the debut, it was an immediate love at first sight. Without reservations.
 
-The first song was *I Still Do*. Those evanescent and suspended sounds, crossed by the delicate scratch of rock. Dolores' voice - crystalline, ethereal, with those vocalizations that seem to emerge from an ancient, almost Celtic background. It was pure love. It still is.
+The first song was *I Still Do*. Those evanescent and suspended sounds, crossed by the delicate scratch of rock. Dolores' voice - crystalline, ethereal, with those vocalizations that seem to emerge from an ancient, almost Celtic background. It was pure love. And it still is today.
 
 The setlist of the special crossed the album with care: *Dreams*, *Sunday*, the sinuous *Pretty*, *Waltzing Back*, *Linger*, *Not Sorry*. And then the more hidden gems — *Reason*, *Wanted*, *Still Can't... Recognize*, *Put Me Down*.
 
@@ -44,8 +44,8 @@ If you want to delve deeper into the connection between Dolores O'Riordan and he
 
 ## Continue following the Lizberries
 
-Dolores was nineteen when she wrote these songs. Yet he already knew it all — the pain, the strength, the grace of transforming both into music.
+Dolores was just nineteen when she wrote these songs. Yet he already knew it all—the pain, strength, and grace needed to transform every emotion into music.
 
 We continue to carry it with us every time we go on stage. You can find all our upcoming concerts and updates on **<a href="https://blog.lizberries.thelizards.it" target="_blank" rel="noopener" style="text-decoration: underline;">our blog</a>**.
 
-Because some songs don't get old. And some records never stop belonging to us.
+Because some songs never get old. And some records never stop belonging to us.
