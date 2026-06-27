@@ -3,7 +3,7 @@ layout: post
 title: "The Lizberries on WhatsApp: Follow us now"
 date: 2026-06-27
 description: "The official Lizberries WhatsApp channel is now live. Get dates, previews, and behind-the-scenes updates on the international tribute to The Cranberries, right on your phone."
-original_file: "2026-06-27-the-lizards-su-whatsapp-seguici-ora.md"
+original_file: "2026-06-27-the-lizberries-su-whatsapp-seguici-ora.md"
 source_hash: "0710ac5b83a49ced143dba63ceb16def"
 ---
 
@@ -25,7 +25,7 @@ No spam. No filler content. Just what matters:
 - Behind-the-scenes glimpses, rehearsals, and stories that don’t make it onto our official social media
 - Once-in-a-lifetime moments — that we don’t want you to miss
 
-We chose WhatsApp because it’s direct, personal, and no-nonsense. Just like The Cranberries’ Irish rock sound: straight to the heart, no frills.
+We chose WhatsApp because it’s direct, personal, and no-nonsense. Just like the Cranberries’ Irish rock sound: straight to the heart, no frills.
 
 ## A tribute tour traveling across Europe
 
