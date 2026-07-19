@@ -5,20 +5,20 @@ date: 2026-07-18
 description: "The Lizberries perform their tribute to the Cranberries at the Millennium Pub in Sesto San Giovanni amid a sold-out crowd, Irish music, and high emotions."
 image: /assets/images/posts/Palco del Millennium Pub allestito per il concerto dei Lizberries.webp
 original_file: "2026-07-18-lizberries-al-millennium-pub-di-sesto.md"
-source_hash: "594cd7a4a310bd91b8b6df7863f6ec4f"
+source_hash: "8315c3ad80d9dd2f0c7eda0195157e59"
 ---
 
 <h1>The Lizberries at the Millennium Pub in Sesto San Giovanni: A Special Evening</h1>
 
 <!--more-->
 
-The Lizberries returned to the stage at the Millennium Pub in Sesto San Giovanni for an evening we’ll remember for a long time. Our tribute to the Cranberries brought us a packed house, lots of excitement, and the joy of finally being able to play… just a few minutes from home.
+The Lizberries returned to the stage at the Millennium Pub in Sesto San Giovanni for an evening we’ll remember for a long time. Our tribute to the Cranberries brought us a packed house, tons of excitement, and the joy of finally being able to play… just a few minutes from home.
 
 To be precise, just a fifteen-minute drive.
 
 It almost didn’t seem real.
 
-After years of loading up our instruments and traveling hundreds of kilometers to bring the Cranberries’ music all over Italy and abroad, getting to a concert in such a short time was truly special.
+After years of loading up our instruments and traveling hundreds of kilometers to bring the Cranberries’ music all over Italy and abroad, getting to a concert in such a short time was something truly special.
 
 <h2>Playing close to home has a special value</h2>
 
@@ -26,7 +26,7 @@ Every now and then, someone has told us that playing far from home is just “a 
 
 Once, someone in the industry even wrote that to us.
 
-We, on the other hand, have always thought differently.
+We, however, have always thought differently.
 
 We believe a band should travel, discover new places, and meet different people. Since 2011, we’ve been bringing our tribute to The Cranberries to many cities, convinced that music should reach everywhere.
 
@@ -38,7 +38,7 @@ Stepping into the new Millennium Pub was a surprise.
 
 The venue is spacious yet cozy, with attention to every detail, and it successfully recreates a genuine Irish atmosphere.
 
-The furniture, carpeting, upholstery, and traditional decor immediately evoke Ireland, while the waiters in kilts round out a truly authentic experience.
+The furniture, carpeting, wallpaper, and traditional decor immediately evoke Ireland, while the waiters in kilts round out a truly authentic experience.
 
 The stage won us over, too.
 
@@ -52,7 +52,7 @@ An original idea that made us smile and shows just how much care has been put in
 
 For a moment, it really felt like we were back in Ireland.
 
-After all, our next <a href="https://www.thelizards.it/lizberries/#showcase-background-live-lizberries" target="_blank" rel="noopener" style="text-decoration: underline;">Tour of Ireland on September 3, 4, 5, and 6, 2026</a>, an event that’s particularly close to our hearts—and we’d like to share our brochure with you, featuring travel ideas for those days.
+After all, our next <a href="https://www.thelizards.it/lizberries/lizberriesPhotos/brochureIrlanda2026.webp" target="_blank" rel="noopener" style="text-decoration: underline;">Tour of Ireland on September 3, 4, 5, and 6, 2026</a>, an event that’s particularly close to our hearts—and we’d like to share our brochure with you, featuring travel ideas for those days.
 
 <h2>A sold-out concert dedicated to The Cranberries</h2>
 
@@ -96,7 +96,7 @@ Sometimes it really doesn’t take much to find new energy.
 
 We’re always pleased when someone tells us we’re good or that our tribute is faithful to the original.
 
-But what truly makes us proud is hearing that our passion resonates with the audience.
+But what really makes us proud is hearing that our passion reaches the audience.
 
 When people tell us they can feel the harmony among us, that every song is played naturally, and that The Cranberries’ music continues to move them, we realize that all the work we’ve put in over the years truly has meaning.
 
@@ -108,9 +108,9 @@ As is often the case during our concerts, there were plenty of fun moments.
 
 During “Loud and Clear,” Kry invited her longtime Irish dance teacher onto the stage, treating the audience to an impromptu performance.
 
-The only minor obstacle?
+The only minor hiccup?
 
-The gorgeous stage carpet… definitely not ideal for sliding your feet!
+The stage’s gorgeous carpet… definitely not ideal for sliding your feet across!
 
 We had a blast.
 
@@ -142,4 +142,4 @@ If you, too, love the Cranberries’ music and want to experience one of our con
 
 Also check out the schedule for our <a href="https://www.thelizards.it/lizberries/#showcase-background-live-lizberries" target="_blank" rel="noopener" style="text-decoration: underline;">Tour of Ireland on September 3, 4, 5, and 6, 2026</a>: a new journey through the iconic locations of The Cranberries that we can’t wait to share with all of you.
 
-Follow us on <a href="https://www.facebook.com/thelizberries" target="_blank" rel="noopener" style="text-decoration: underline;">our social media channels</a> to stay updated on concerts, videos, and new events.
+Follow us on <a href="https://www.facebook.com/thelizberries" target="_blank" rel="noopener" style="text-decoration: underline;">our social media channels</a> to stay up to date on concerts, videos, and new events.
