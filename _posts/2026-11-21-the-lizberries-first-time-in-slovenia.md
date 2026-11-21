@@ -9,7 +9,7 @@ source_hash: "d535d7a52c740c8bc9f9dcd84afd928e"
 ---
 
 
-# Lizberries in Slovenia: Two Memorable Concerts
+# Lizberries in Slovenia: Two Memorable Gigs
 
 Slovenia will forever be synonymous with one of the most beautiful tours we’ve ever done. 
 
@@ -18,7 +18,7 @@ Slovenia will forever be synonymous with one of the most beautiful tours we’ve
 
 A truly charming country, with gentle, delicate landscapes that, in some places, remind one of an even more charming Austria. And then there are the people: talkative, welcoming, warm, and, above all… absolutely passionate about **The Cranberries**!
 
-That’s right, you heard correctly: at both concerts, we were met by a huge crowd that knew and sang along to every single Cranberries song. But let’s take it one step at a time, because this trip deserves to be told from the very beginning.
+That’s right, you heard correctly: at both gigs, we were met by a huge crowd that knew and sang along to every single Cranberries song. But let’s take it one step at a time, because this trip deserves to be told from the very beginning.
 
 ## Friday, November 13: Destination Murska Sobota!
 
@@ -36,9 +36,9 @@ Just enough time to set everything up, grab a quick bite, and we’re on stage.
 
 ## At the Bunker: An Audience That Sings Every Song
 
-And what a concert!
+And what a gig!
 
-Two wonderful hours, with the venue packed—no, overflowing. The audience is practically glued to the small stage and sings at the top of their lungs from start to finish. There are even people who settle in on the stairs and stay there for the entire concert, just so they don’t miss a single song.
+Two wonderful hours, with the venue packed—no, overflowing. The audience is practically glued to the small stage and sings at the top of their lungs from start to finish. There are even people who settle in on the stairs and stay there for the entire gig, just so they don’t miss a single song.
 
 The excitement is through the roof. At the end, we received tons of compliments and even a small bouquet of flowers. Because let’s face it: Slovenians and Austrians really know how to be chivalrous!
 
@@ -80,7 +80,7 @@ Refreshed, we treat ourselves to a bit of shopping, especially at a renowned dra
 
 But 4:00 p.m. is approaching, the sun is starting to set, and reality is setting in again: alas—but also hooray—we have to go to work!
 
-## At the Orto Bar: Another Unforgettable Concert
+## At the Orto Bar: Another Unforgettable gig
 
 The **Orto Bar** awaits us, with its incredibly friendly staff. The bouncer is a constant source of jokes, the sound engineers are fantastic, and the stage is exactly the kind we like: nice and big, just like the venue itself—spacious and long.
 
@@ -90,13 +90,13 @@ Of course we will!
 
 This evening turns out to be wonderful as well. So many people came to listen to the music of **The Cranberries**, and among them are stories that will stay in our hearts.
 
-There’s a guy who came all the way from Austria—after a six-hour trip—with a beautiful white rose for us. And there were also those who, after attending the previous night’s concert at the Bunker, decided to repeat the experience, hopping in the car with their whole family and driving another two hours just to hear us play again.
+There’s a guy who came all the way from Austria—after a six-hour trip—with a beautiful white rose for us. And there were also those who, after attending the previous night’s gig at the Bunker, decided to repeat the experience, hopping in the car with their whole family and driving another two hours just to hear us play again.
 
 How can you not be moved by so much passion?
 
-Here, too, the two-hour concert flies by. The audience is extraordinary—they sing along, join in, and give us incredible energy. There are moments that can’t be easily described, because you have to experience them: the looks in their eyes, the voices blending with ours, the enthusiasm, and that wonderful feeling of all being—at least for one evening—part of the same big family.
+Here, too, the two-hour gig flies by. The audience is extraordinary—they sing along, join in, and give us incredible energy. There are moments that can’t be easily described, because you have to experience them: the looks in their eyes, the voices blending with ours, the enthusiasm, and that wonderful feeling of all being—at least for one evening—part of the same big family.
 
-We step off the stage with our hearts full and the knowledge that we’ve experienced something truly special. Another concert, another wonderful audience, more memories destined to last.
+We step off the stage with our hearts full and the knowledge that we’ve experienced something truly special. Another gig, another wonderful audience, more memories destined to last.
 
 ## Sunday, November 15: A “See You Later,” Not a “Goodbye”
 
@@ -108,7 +108,7 @@ We treat ourselves to some delicious *palačinke* with gianduia and a hot cappuc
 
 And so we say goodbye to Slovenia.
 
-We’re taking home wonderful landscapes, new flavors, lots of warmth, a welcome we’ll hardly ever forget, and two incredible concerts, full of music, smiles, and emotions.
+We’re taking home wonderful landscapes, new flavors, lots of warmth, a welcome we’ll hardly ever forget, and two incredible gigs, full of music, smiles, and emotions.
 
 But above all, we’re taking one certainty with us: around here, **The Cranberries** are truly beloved!
 
